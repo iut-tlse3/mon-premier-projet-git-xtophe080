@@ -4,7 +4,7 @@
 ### First name : John
 ### TP group :
 - [ ] a
-- [ ] b
+- [x] b
 
 
 ## Le fichier Activites_enonce.pdf
